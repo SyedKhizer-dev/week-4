@@ -1,4 +1,12 @@
 anaconda_projects/
 .virtual_documents/
-ETL Job/.ipynb_checkpoints/
-ETL Job/datasets/
+
+01 ETL Job/.ipynb_checkpoints/
+01 ETL Job/datasets/
+
+02 XLSX to CSV/.ipynb_checkpoints/
+02 XLSX to CSV/dataset/
+02 XLSX to CSV/sample_data_python_assignment/
+02 XLSX to CSV/spreadsheet_1aijmQTf29qQN75fu1VHlRJ1GKr_SUpEhMdsIHWrugbE/
+
+testing.py
