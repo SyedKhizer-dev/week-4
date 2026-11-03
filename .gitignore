@@ -1,0 +1,4 @@
+anaconda_projects/
+.virtual_documents/
+ETL Job/.ipynb_checkpoints/
+ETL Job/datasets/
