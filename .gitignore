@@ -11,4 +11,7 @@ anaconda_projects/
 
 03 SQL information extraction/dataset/
 
+04 Data Manipulation/dataset/
+04 Data Manipulation/.env
+
 testing.py
